@@ -1,0 +1,5 @@
+com\real\assignment\assignment\bean\Student.class
+com\real\assignment\assignment\service\IStudentService.class
+com\real\assignment\assignment\service\StudentService.class
+com\real\assignment\assignment\utils\MybatisUtil.class
+com\real\assignment\assignment\dao\IStudentDao.class
