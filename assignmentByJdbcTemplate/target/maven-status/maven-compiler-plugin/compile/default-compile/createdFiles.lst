@@ -1,0 +1,6 @@
+com\real\assignment\assignmentByJdbcTemplate\dao\StudentRowMapper.class
+com\real\assignment\assignmentByJdbcTemplate\dao\IStudentDao.class
+com\real\assignment\assignmentByJdbcTemplate\service\StudentService.class
+com\real\assignment\assignmentByJdbcTemplate\dao\StudentDao.class
+com\real\assignment\assignmentByJdbcTemplate\service\IStudentService.class
+com\real\assignment\assignmentByJdbcTemplate\bean\Student.class
